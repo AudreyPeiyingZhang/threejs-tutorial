@@ -20,7 +20,7 @@ const Home = () => {
   return (
     <Layout>
         <HomeWrapper>
-            <h1> Thomas' favourite things </h1>
+            <h1> Audrey's world </h1>
             <Bio>
             Adipisicing four dollar toast labore lomo pok pok, in craft beer kogi sriracha vice gentrify. Ut laborum voluptate nulla tempor ea consectetur before they sold out bushwick etsy hammock vegan blue bottle.
             </Bio>

@@ -33,7 +33,7 @@ const Navbar = () => {
         },
         {
             to: '/cube',
-            title: 'Cube'
+            title: 'Lumi'
         },
         // {
         //     to: '/portfolio',
